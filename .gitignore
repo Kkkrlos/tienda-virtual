@@ -1,0 +1,5 @@
+venv
+
+tienda_virtual/static
+
+tienda_virtual/db.sqlite3
